@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashishgupta1350/](https://www.linkedin.com/in/ashishgupta1350/)
 
-- ⚡ Fun fact **3 Years of Trading, 5 Years in Real Estate Investing**
+- ⚡ Fun fact about me : **Experienced 3 Years of Trading, 5 Years in Real Estate Investing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
