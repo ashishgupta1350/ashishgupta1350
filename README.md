@@ -1,5 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/ashishgupta1350/)
+
+
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate systems trader in India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on **Automating Trading Strategies**
 
