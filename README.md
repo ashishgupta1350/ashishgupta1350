@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate systems trader in India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif](https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif](https://giphy.com/gifs/u1W1uPNzhSUbiXXpsK)](funny)">
 
 - 🔭 I’m currently working on **Automating Trading Strategies**
 
