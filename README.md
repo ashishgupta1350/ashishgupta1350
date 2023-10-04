@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/ashishgupta1350/)
+[![MasterHead](https://github.com/ashishgupta1350/ashishgupta1350/blob/main/github-header-image%20(1).png)](https://www.linkedin.com/in/ashishgupta1350/)
 
 
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
