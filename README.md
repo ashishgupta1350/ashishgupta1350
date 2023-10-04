@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ludmFxNDljd20xdmkwcjh5ODltNnplOTV0aDhjYnNoOWRuanBzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1W1uPNzhSUbiXXpsK/giphy.gif">
 
-- 🔭 I’m currently working on **Automating Trading Strategies**
+- 🔭 I’m currently working on **Automating Trading Strategies using Algo Trading**
 
-- 🌱 I am currently working on **LLM and Use Cases in Trading Frameworks**
+- 🌱 I am also currently working on **LLM and Use Cases in Trading Applications**
 
 - 👯 I have published Research Paper on: [Bias Analysis in Hindi Songs Using Natural Language Processing](https://github.com/ashishgupta1350/repetitionInSongs.git)
 
-- 🤝 I have worked on Research Project [LSTM based Ligand Generation for Covid 19 Vaccines and Generative Cure Prediction](https://github.com/ashishgupta1350/Covid19-Research_Project)
+- 🤝 I have worked on Research Project: [LSTM based Ligand Generation for Covid 19 Vaccines and Generative Cure Prediction](https://github.com/ashishgupta1350/Covid19-Research_Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishgupta1350](https://github.com/ashishgupta1350)
 
@@ -20,9 +20,9 @@
 
 - 💬 Ask me about **Trading, Real Estate Investments**
 
-- 📫 How to reach me **ashishgupta1350@gmail.com**
+- 📫 How to reach me: **ashishgupta1350@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashishgupta1350/](https://www.linkedin.com/in/ashishgupta1350/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/ashishgupta1350/](https://www.linkedin.com/in/ashishgupta1350/)
 
 - ⚡ Fun fact about me : **Experienced 3 Years of Trading, 5 Years in Real Estate Investing**
 
