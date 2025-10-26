@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ludmFxNDljd20xdmkwcjh5ODltNnplOTV0aDhjYnNoOWRuanBzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1W1uPNzhSUbiXXpsK/giphy.gif">
 
-- 🔭 I’m currently working on **Automating Trading Strategies using Algo Trading**
+- 🔭 I’m currently working on **Automating Trading Strategies using Algo Trading** , Portfolio : [Portfolio Website](https://ashishgupta1350.github.io/my-portfolio/)
 
 - 🌱 I am also currently working on **LLM and Use Cases in Trading Applications**
 
