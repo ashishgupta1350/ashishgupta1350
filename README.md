@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">A passionate systems trader in HK</h3>
+<h3 align="center">A passionate systems trader working with Automated Systems </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ludmFxNDljd20xdmkwcjh5ODltNnplOTV0aDhjYnNoOWRuanBzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1W1uPNzhSUbiXXpsK/giphy.gif">
 
